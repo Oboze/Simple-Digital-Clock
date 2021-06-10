@@ -1,0 +1,9 @@
+#clock-display-area{
+    width:50%;
+    margin:0px auto;
+    color:#fff;
+    font-size:95px;
+    background-color: #69b00b;
+    padding: 15px 35px;
+    text-align:center;
+}
